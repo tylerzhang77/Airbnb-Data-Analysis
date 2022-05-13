@@ -1,5 +1,9 @@
 # Airbnb_data
 
+## Related blog
+You can find the related blog on Medium with the link:
+https://medium.com/@tylerzhang77/interesting-facts-about-airbnb-5722b2ad74c1
+
 ## Libraries used
 Libraies in this project includes numpy, pandas, matplotlibs, seaborn and datetime.
 
