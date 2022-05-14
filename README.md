@@ -36,3 +36,6 @@ back to high level afterwards. The price trend is inversely proportional to the 
 
 The ratings are on a scale of 0-100. With lower price housing, there tend to be more negative reviews. As price increases, negative reviews decrease. 
 
+## Acknowledgement
+
+#### Data source: https://www.kaggle.com/datasets/airbnb/boston
